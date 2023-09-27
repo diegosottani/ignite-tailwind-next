@@ -1,2 +1,2 @@
-#Estudos sobre Tailwind CSS
-##Aulas Rockeseat Ignite
+# Estudos sobre Tailwind CSS
+Aulas Rockeseat Ignite
